@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema version="0.3">
+    <table name="btMyMitsuAutofill">
+        <field name="bID" type="I">
+            <unsigned/>
+            <key/>
+        </field>
+        <field name="optionname" type="C" />
+        <field name="optionmail" type="C" />
+        <field name="option1m" type="C" />
+        <field name="option1j" type="C" />
+        <field name="option2m" type="C" />
+        <field name="option2j" type="C" />
+        <field name="option3m" type="C" />
+        <field name="option3j" type="C" />
+        <field name="option4m" type="C" />
+        <field name="option4j" type="C" />
+        <field name="option5m" type="C" />
+        <field name="option5j" type="C" />
+    </table>
+</schema>

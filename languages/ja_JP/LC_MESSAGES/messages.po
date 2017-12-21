@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Mitsu Mautic\n"
+"POT-Creation-Date: 2017-12-21 12:17+0900\n"
+"PO-Revision-Date: 2017-12-21 12:18+0900\n"
+"Last-Translator: \n"
+"Language-Team: mizuno@rescuework.nagoya\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;t\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:21
+#: ../../../controller.php:15
+msgid ""
+"When logged-in visitors view a page with a form, this addon autofills his/"
+"her info into the form"
+msgstr ""
+"ログインしたユーザーが、フォームのあるページを閲覧したときに、ユーザー情報を"
+"自動挿入します。"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:26
+msgid "Autofill"
+msgstr "自動挿入"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:112
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:7
+msgid "Form ID/class for NAME"
+msgstr "ユーザー名を挿入するフォームID/class"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:112
+#: ../../../blocks/my_mitsu_autofill/controller.php:115
+#: ../../../blocks/my_mitsu_autofill/controller.php:118
+#: ../../../blocks/my_mitsu_autofill/controller.php:121
+#: ../../../blocks/my_mitsu_autofill/controller.php:124
+#: ../../../blocks/my_mitsu_autofill/controller.php:127
+#: ../../../blocks/my_mitsu_autofill/controller.php:130
+#: ../../../blocks/my_mitsu_autofill/controller.php:134
+#: ../../../blocks/my_mitsu_autofill/controller.php:137
+#: ../../../blocks/my_mitsu_autofill/controller.php:140
+#: ../../../blocks/my_mitsu_autofill/controller.php:143
+#: ../../../blocks/my_mitsu_autofill/controller.php:146
+#, php-format
+msgid ""
+"%s should be alphanumeric characters with a preceding sharp(#) or dot(.)"
+msgstr ""
+"%s は、先頭が # または . で、二文字目以降は英数字で、指定してください。"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:115
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:11
+msgid "Form ID/class for EMAIL"
+msgstr "メールアドレスを挿入するフォームID/class"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:118
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:16
+msgid "Form ID/class 1"
+msgstr "フォーム ID/class 1"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:121
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:22
+msgid "Form ID/class 2"
+msgstr "フォーム ID/class 2"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:124
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:28
+msgid "Form ID/class 3"
+msgstr "フォーム ID/class 3"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:127
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:34
+msgid "Form ID/class 4"
+msgstr "フォーム ID/class 4"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:130
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:40
+msgid "Form ID/class 5"
+msgstr "フォーム ID/class 5"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:134
+msgid "UserAttribute Field 1"
+msgstr "ユーザー属性 1"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:137
+msgid "UserAttribute Field 2"
+msgstr "ユーザー属性 2"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:140
+msgid "UserAttribute Field 3"
+msgstr "ユーザー属性 3"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:143
+msgid "UserAttribute Field 4"
+msgstr "ユーザー属性 4"
+
+#: ../../../blocks/my_mitsu_autofill/controller.php:146
+msgid "UserAttribute Field 5"
+msgstr "ユーザー属性 5"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:4
+msgid "Association"
+msgstr "関連付け"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:18
+msgid "User Attribute 1"
+msgstr "ユーザー属性 1"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:24
+msgid "User Attribute 2"
+msgstr "ユーザー属性 2"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:30
+msgid "User Attribute 3"
+msgstr "ユーザー属性 3"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:36
+msgid "User Attribute 4"
+msgstr "ユーザー属性 4"
+
+#: ../../../blocks/my_mitsu_autofill/form_setup_html.php:42
+msgid "User Attribute 5"
+msgstr "ユーザー属性 5"
+
+#: ../../../blocks/my_mitsu_autofill/view.php:5
+msgid "My Mitsu Autofill Block is disabled in edit mode."
+msgstr "マイミツ自動挿入ブロックは、編集モードでは表示されません。"
+
+#: ../../../controller.php:19
+msgid "My Mitsu Autofill"
+msgstr "マイミツ自動挿入"
+
